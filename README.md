@@ -7,7 +7,9 @@
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/samedit66/count.svg" alt="Visitor Count" />
-  <img src="https://img.shields.io/badge/Telegram-@samedit66-blue?logo=telegram" alt="Telegram Badge" />
+  <a href="https://t.me/samedit66">
+    <img src="https://img.shields.io/badge/Telegram-@samedit66-blue?logo=telegram" alt="Telegram Badge" />
+  </a>
 </p>
 
 ---
