@@ -5,12 +5,14 @@
 <h1 align="center">Hi, I'm Dmitry 👋</h1>
 <h3 align="center">Junior+ Python & Machine Learning Developer from Russia 🇷🇺</h3>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/samedit66/count.svg" alt="Visitor Count" />
+<div align="center">
   <a href="https://t.me/samedit66">
-    <img src="https://img.shields.io/badge/Telegram-@samedit66-blue?logo=telegram" alt="Telegram Badge" />
+    <img
+      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Telegram Badge"
+    />
   </a>
-</p>
+</div>
 
 ---
 
@@ -19,7 +21,7 @@
 I'm a passionate developer who loves turning ideas into working products using Python and machine learning. With a solid foundation in algorithms, neural networks, and data-driven problem solving, I build efficient, user‑centric applications.  
 I have over 3 years of hands‑on experience writing Python code, mentoring students, and tackling AI challenges.
 
-- 🏢 **Current role:** Junior ML Fullstack Developer @ [Social Media Holding](https://socialmediaholding.ru/)  
+- 🏢 ML Software Engineer
 - 🏆 Hackathon winner in AI‑driven challenges  
 - 🧩 Strong focus on NLP, computer vision, time‑series forecasting & MLOps
 
