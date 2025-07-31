@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi, I'm Dmitry 👋</h1>
-<h3 align="center">Junior+ Python & Machine Learning Developer from Russia 🇷🇺</h3>
+<h3 align="center">Python & Machine Learning Developer from Russia 🇷🇺</h3>
 
 <div align="center">
   <a href="https://t.me/samedit66">
@@ -50,7 +50,7 @@ A compiler for Eiffel language targeting the JVM, written in Python & C.
 ## 🛠 Skills
 
 **Languages & Frameworks:**  
-Python · PyTorch · Keras · Scikit‑learn · NumPy · Pandas · Matplotlib · Docker · Git · Pyrogram · aiogram
+Python · openai-agents · Transformers · PyTorch · Scikit‑learn · NumPy · Pandas · Matplotlib · Docker · Git · aiogram
 
 **Core Areas:**  
 Deep Learning · Neural Networks · Data Analysis · Algorithms · NLP · Computer Vision · Fullstack ML
@@ -79,7 +79,6 @@ Volgograd State Technical University, Sep 2021 – Jun 2025
 
 - 📧 [samedit66@yandex.ru](mailto:samedit66@yandex.ru)  
 - 💬 Telegram: [@samedit66](https://t.me/samedit66)  
-- 🌐 GitHub: [@samedit66](https://github.com/samedit66)  
 - 📍 Volgograd, Russia
 
 ---
