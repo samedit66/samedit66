@@ -2,7 +2,7 @@
   Welcome to Dmitry Molchanov's GitHub ✨
 -->
 
-<h1 align="center">Hi, I'm Dmitry 👋</h1>
+<h1 align="center">Hi, I'm Dmitry 🌌</h1>
 <h3 align="center">Software Developer from Russia 🇷🇺</h3>
 
 <div align="center">
@@ -16,34 +16,23 @@
 
 ---
 
-## 🧠 About Me
+## Who am I
 
-I enjoy building simple yet useful — and sometimes funny — utilities. My projects are a way to try different approaches and explore ideas around programming languages and AI.
-
-- 🏆 Hackathon winner in AI‑driven challenges
-- ⚙️ Currently focused on Rust & Python
-- 🎨 Building compilers, interpreters, utilities, and LLM tools
-- 🔭 Interested in how programming languages and agents evolve
+Still trying to know that myself - but in the meantime I make small, useful things and experiment with language ideas. Currently becoming a functional-programming adept.
 
 ---
 
-## 🛠 Skills & Tools
+## What I do
 
-**Languages & Frameworks**
-
-Rust · Python · openai-agents · smol-agents · LangChain · aiogram · Telegram Bots · PyTorch
-
-**Focus Areas**
-
-Compilers & Interpreters · Agent Systems · LLM Applications · Utilities & Automation
+I build small, well-crafted things - compilers that whisper, bots that behave, and tools that get the job done with as little fuss as possible.
 
 ---
 
-## 🌟 Activity Graph
+## What I use
 
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-activity-graph.vercel.app/graph?username=samedit66&theme=github-compact" />
-</p>
+- Elixir
+- Gleam
+- Python
 
 ---
 
