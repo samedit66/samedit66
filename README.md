@@ -16,7 +16,7 @@
 
 ---
 
-## Who am I
+## Who am I?
 
 Still trying to know that myself - but in the meantime I make small, useful things and experiment with language ideas. Currently becoming a functional-programming adept.
 
