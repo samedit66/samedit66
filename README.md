@@ -1,47 +1,23 @@
-<!--
-  Welcome to Dmitry Molchanov's GitHub ✨
--->
+<h1 align="center">Hi, I'm Dmitry 🧪</h1>
 
-<h1 align="center">Hi, I'm Dmitry 🌌</h1>
-<h3 align="center">Software Developer from Russia 🇷🇺</h3>
-
-<div align="center">
-  <a href="https://t.me/samedit66">
-    <img
-      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-      alt="Telegram Badge"
-    />
-  </a>
-</div>
+<p align="center">
+  <a href="mailto:samedit66@yandex.ru">Email</a>
+  ·
+  <a href="https://t.me/samedit66">Telegram</a>
+</p>
 
 ---
 
-## Who am I?
+Apparently, I have a thing for programming languages starting with E: `Eiffel`, `Elixir`, and `Erlang`. `Python` is there to glue everything together.
 
-Still trying to know that myself - but in the meantime I make small, useful things and experiment with language ideas. Currently becoming a functional-programming adept.
+In my free time, I use `Eiffel` to build tools and libraries for myself and others. I also built [Serpent](https://github.com/samedit66/serpent), an experimental Eiffel-to-JVM compiler that started as a university assignment. It supports multiple inheritance on top of the single-inheritance JVM while avoiding dynamic dispatch where possible.
 
----
+At work, I use `Elixir`. Sometimes I use it after work too - usually to build weird things :)
 
-## What I do
+## Check out my projects
 
-I build small, well-crafted things - compilers that whisper, bots that behave, and tools that get the job done with as little fuss as possible.
-
----
-
-## What I use
-
-- Elixir
-- Gleam
-- Python
-
----
-
-## 📬 Contact
-
-- 📧 [samedit66@yandex.ru](mailto:samedit66@yandex.ru)  
-- 💬 Telegram: [@samedit66](https://t.me/samedit66)  
-- 📍 Volgograd, Russia
-
----
-
-<p align="center">Thanks for visiting! Let’s build something amazing together 🚀</p>
+- [evm](https://github.com/samedit66/evm) - a proof-of-concept project, dependency, and toolchain manager for `Eiffel`.
+- [aiogram-bot-tester](https://github.com/samedit66/aiogram-bot-tester) - offline testing for Telegram bots without pretending the Telegram API is always available.
+- [brainstorm](https://github.com/samedit66/brainstorm) - an optimizing `Brainfuck` compiler written in `Elixir`. Because apparently `Brainfuck` wasn't fast enough.
+- [coloredstrings](https://github.com/samedit66/coloredstrings) - expressive terminal colors and styles with a chainable `Python` API.
+- [tomelle](https://github.com/samedit66/tomelle) - a `TOML 1.1` library for `Eiffel` with lossless, style-preserving edits.
